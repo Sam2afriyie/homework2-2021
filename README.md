@@ -1,2 +1,2 @@
-# hw2-2021
- Assignment 2- css Styling
+# hw2-2020
+The starter code for Homework 2 Winter 2021 term
