@@ -23,11 +23,8 @@ img {
     width: 550px;
 }
 div {
-    height: 150px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    min-height: 150px;
+    padding: 25px;
 }
 #red {
     background-color: #ff0000;
@@ -41,14 +38,12 @@ div {
     background-color: #ffff00;
     text-align: right;
 }
-#yellow h2, #yellow p{
+#yellow h2 {
     color:#000000;
+    text-shadow: 4px 4px 2px #c7e2c7
 }
-/* #yellow p {
+#yellow p {
     color:#000000;
-} */
-#yellow h2{
-    filter: drop-shadow(0 0 0 #c7e2c7);
 }
 #green {
     background-color: #008000;
